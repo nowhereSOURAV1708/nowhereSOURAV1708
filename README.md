@@ -38,9 +38,9 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nowheresourav1708&show_icons=true&theme=radical&cache_seconds=1800" alt="Sourav's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nowheresourav1708&theme=radical" alt="Sourav's Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowheresourav1708&layout=compact&theme=radical" alt="Sourav's Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=nowheresourav1708&show_icons=true&theme=radical&cache_seconds=1800" alt="Sourav's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nowheresourav1708&theme=radical" alt="Sourav's Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowheresourav1708&layout=compact&theme=radical" alt="Sourav's Top Languages" />
 </p>
 
 
